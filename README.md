@@ -1,4 +1,4 @@
-# BetavStream
+# Beta vStream
 EXTENSION FRANCAISE DE STREAMING SUR KODI
 
 Vstream est une Extention 100 % Francaise sur Kodi qui vous permet de visionner en streaming un grand nombre de sources video 
